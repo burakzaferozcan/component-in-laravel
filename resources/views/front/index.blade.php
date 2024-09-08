@@ -23,7 +23,15 @@
         <x-slot:title2>Makale 1 başlık 2</x-slot>
 
         <x-slot name="content">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel euismod enim. Mauris rutrum eu lacus a rutrum. Integer volutpat ultrices augue, nec porta arcu venenatis ac. Nulla vulputate quis purus ut laoreet. Praesent lobortis at ante nec bibendum. Fusce vel aliquam ipsum, in lobortis ipsum. Ut id odio in metus viverra venenatis vel sed nisl. Aenean risus turpis, feugiat eu molestie quis, porttitor vitae augue. Praesent mauris quam, suscipit eget dictum semper, scelerisque id purus. Proin nec gravida leo, mollis bibendum dui. Maecenas in odio eget nibh cursus interdum non sed nisi. Duis fringilla mauris ante, eget efficitur nulla bibendum ac. Sed dapibus, felis in dapibus fringilla, massa velit rutrum ligula, eu dictum ante ligula nec quam. Morbi faucibus mollis ante sed rhoncus. Donec rhoncus ante sem, nec fringilla sapien sollicitudin et.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel euismod enim. Mauris rutrum eu lacus a
+            rutrum. Integer volutpat ultrices augue, nec porta arcu venenatis ac. Nulla vulputate quis purus ut laoreet.
+            Praesent lobortis at ante nec bibendum. Fusce vel aliquam ipsum, in lobortis ipsum. Ut id odio in metus
+            viverra venenatis vel sed nisl. Aenean risus turpis, feugiat eu molestie quis, porttitor vitae augue.
+            Praesent mauris quam, suscipit eget dictum semper, scelerisque id purus. Proin nec gravida leo, mollis
+            bibendum dui. Maecenas in odio eget nibh cursus interdum non sed nisi. Duis fringilla mauris ante, eget
+            efficitur nulla bibendum ac. Sed dapibus, felis in dapibus fringilla, massa velit rutrum ligula, eu dictum
+            ante ligula nec quam. Morbi faucibus mollis ante sed rhoncus. Donec rhoncus ante sem, nec fringilla sapien
+            sollicitudin et.
         </x-slot>
     </x-article>
 @endsection
